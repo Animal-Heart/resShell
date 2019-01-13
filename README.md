@@ -4,7 +4,8 @@ Non mi assumo nessuna responsabilità per l'uso illecito di questo programma.
 Ho deciso di creare questo script in php per simulare un attacco ad un webserver, interagire con esso e perchè no.. simulare l'amato e tanto odiato "DEFACE"
 Ideato per attacchi ad un webserver tipo: CTF o altro.
 Il codice è semplice e banale. 
-Attualmente ho deciso di dargli la versione 1.4-1, senza changelogs.
+Attualmente ho deciso di presentare la versione 1.4-1, senza changelogs.
+Spero di aggiornare aggiungendo qualcosa o facendo piccole e semplici modifiche.
 
 
 ResShell.php è una semplice webshell con varie features
