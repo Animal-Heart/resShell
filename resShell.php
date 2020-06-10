@@ -11,7 +11,7 @@
     font-size: 14px;
 }
 </style>
-<marquee><center>resShell v1.4-2 - coded by Animal-Heart</center></marquee>
+<marquee><center>resShell v1.4-2</center></marquee>
 <hr align=left size=1 width='' color=red noshade>
 </head>
 </html>
